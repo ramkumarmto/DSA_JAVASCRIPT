@@ -86,3 +86,10 @@ function bubbleSort(arr) {
 
 
 console.log(bubbleSort([1, 7, 2, 4, 6]))
+
+
+
+
+// O(n) complexity of bubble sort is 
+// in worst complexity O(n^2)
+// in best cases O(n)
